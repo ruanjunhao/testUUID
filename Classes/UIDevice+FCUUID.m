@@ -11,7 +11,7 @@
 
 -(NSString *)uuid
 {
-    return [FCUUID uuidForDevice];
+    return @"1111";
 }
 
 @end
